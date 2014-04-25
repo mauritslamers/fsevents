@@ -25,7 +25,6 @@
   ],
   "author": "Philipp Dunkel <pip@pipobscure.com>",
   "license": "MIT",
-  "gypfile": true,
   "bugs": {
     "url": "https://github.com/pipobscure/fsevents/issues"
   },
