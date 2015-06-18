@@ -1,5 +1,5 @@
 {
-  "name": "fsevents",
+  "name": "fsevents-bin",
   "version": "0.3.6",
   "description": "Precompiled Access to Mac OS-X FSEvents",
   "main": "fsevents.js",
